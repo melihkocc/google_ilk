@@ -1,0 +1,141 @@
+header{
+
+    width: 900px;
+    min-height: 100px;
+    margin: auto;
+    }
+    nav{
+    
+    width: 900px;
+    min-height: 100px;
+    margin: auto;
+    }
+    article{
+    border-width: 2px;
+    width: 1210px;
+    min-height: 400px;
+    margin: auto;
+    }
+    footer{               
+    border-width: 2px;
+    width: 900px;
+    min-height: 50px;
+    margin: auto;
+    }
+    #googleresim{
+    position: relative;
+    left: 280px;
+    image-rendering: pixelated;
+    }
+    #search{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 900px;
+    min-height: 100px;
+    background-color: rgb(238, 238, 238)
+    }
+    #p1{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 900;
+    }
+    #searchcubuk{
+    position: relative;
+    left: 246px;
+    top: -15px;
+    }       
+    #submit{
+    position: relative;
+    right: 55px;
+    top: 6px;
+    
+    }
+    #luckybutton{
+    position: relative;
+    right: 60px;
+    top: 6px;
+    }
+    #part1{
+    background-color: aqua;
+    float: left;
+    width: 448px;
+    height: 100px;
+    margin-right: 4px;
+    }
+    #part2{
+    background-color: rgb(0, 161, 161);
+    float: left;
+    height: 100px;
+    width: 300px;
+    margin-right: 4px;
+    }
+    #part3{
+    background-color: rgb(1, 114, 114);
+    float: left;
+    width: 440px;
+    height: 100px;
+    }
+    .textalign{
+    text-align: center;
+    font-weight: 900;
+    }
+    #link1{
+    position: relative;
+    left: 167px;
+    top: -15px;
+    }
+    #link2{
+    position: relative;
+    left: 180px;
+    top: -15px;
+    }
+    #link3{
+    position: relative;
+    left: 135px;
+    }
+    #link4{
+    position: relative;
+    left: 105px;
+    }
+    #link5{
+    position: relative;
+    left: 104px;
+    }
+    #link6{
+    position: relative;
+    left: 104px;
+    }
+    #p2{
+    position: relative;
+    top: -15px;
+    text-align: center;
+    }
+    #p3{
+    position: relative;
+    top: -28px;
+    text-align: center;
+    }
+    #onay{
+    position: relative;
+    top: -19px;
+    right: 85px;
+    }
+    #email{
+    position: relative;
+    top: -40px;
+    left: 103px;
+    
+    }
+    #archive{
+    position: relative;
+    top: -18px;
+    right: 73px;
+    font-weight: 900;
+    
+    }
+    #son{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    }
